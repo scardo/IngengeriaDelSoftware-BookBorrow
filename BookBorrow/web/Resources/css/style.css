@@ -1,0 +1,35 @@
+#fotoProfilo {
+   border: thin solid lightGray;
+   padding: 5px;
+   top: 30.5%;
+   background: #eeeeee;
+   position: relative;
+   width: 200px;
+   height: 200px;
+   float:left;
+  
+}
+
+#infoProfilo {
+   border: thin solid lightGray;
+   padding: 5px;
+   top: 30.5%;
+   background: #eeeeee;
+   position: relative;
+   width: 80%;
+   height: 200px;
+   float:left;
+   
+}
+
+#infoLibri {
+   border: thin solid lightGray;
+   padding: 5px;
+   top: 30.5%;
+   background: #eeeeee;
+   position: relative;
+   width: 95.7%;
+   height: 60%;
+   float:left;
+   
+}

@@ -1,0 +1,8 @@
+DROP TABLE BlackList;
+DROP TABLE Prestito;
+DROP TABLE Libro;
+DROP TABLE Indirizzo;
+DROP TABLE Book_User;
+DROP TABLE Admin;
+DROP FUNCTION isBookOwner(val VARCHAR);
+
